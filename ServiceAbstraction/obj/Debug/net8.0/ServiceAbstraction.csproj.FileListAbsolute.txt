@@ -1,0 +1,17 @@
+C:\Users\shere\source\repos\ToDoApp\ServiceAbstraction\bin\Debug\net8.0\ServiceAbstraction.deps.json
+C:\Users\shere\source\repos\ToDoApp\ServiceAbstraction\bin\Debug\net8.0\ServiceAbstraction.dll
+C:\Users\shere\source\repos\ToDoApp\ServiceAbstraction\bin\Debug\net8.0\ServiceAbstraction.pdb
+C:\Users\shere\source\repos\ToDoApp\ServiceAbstraction\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\shere\source\repos\ToDoApp\ServiceAbstraction\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\shere\source\repos\ToDoApp\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.csproj.AssemblyReference.cache
+C:\Users\shere\source\repos\ToDoApp\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shere\source\repos\ToDoApp\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.AssemblyInfoInputs.cache
+C:\Users\shere\source\repos\ToDoApp\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.AssemblyInfo.cs
+C:\Users\shere\source\repos\ToDoApp\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\shere\source\repos\ToDoApp\ServiceAbstraction\obj\Debug\net8.0\ServiceA.44E702FF.Up2Date
+C:\Users\shere\source\repos\ToDoApp\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.dll
+C:\Users\shere\source\repos\ToDoApp\ServiceAbstraction\obj\Debug\net8.0\refint\ServiceAbstraction.dll
+C:\Users\shere\source\repos\ToDoApp\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.pdb
+C:\Users\shere\source\repos\ToDoApp\ServiceAbstraction\obj\Debug\net8.0\ref\ServiceAbstraction.dll
+C:\Users\shere\source\repos\ToDoApp\ServiceAbstraction\bin\Debug\net8.0\Shared.dll
+C:\Users\shere\source\repos\ToDoApp\ServiceAbstraction\bin\Debug\net8.0\Shared.pdb

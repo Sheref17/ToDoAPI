@@ -1,0 +1,433 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shere\\source\\repos\\ToDoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4240F247-A98E-4A75-9B42-827A8E93191F}|ToDoApp\\ToDoApp.csproj|c:\\users\\shere\\source\\repos\\todoapp\\todoapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4240F247-A98E-4A75-9B42-827A8E93191F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870525D0-A0D2-4086-BD28-A6310781AC8F}|PersentaisonLayer\\PersentaisonLayer.csproj|c:\\users\\shere\\source\\repos\\todoapp\\persentaisonlayer\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870525D0-A0D2-4086-BD28-A6310781AC8F}|PersentaisonLayer\\PersentaisonLayer.csproj|solutionrelative:persentaisonlayer\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672C488B-172F-4D5E-A5F8-4FD42D9D7A17}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\shere\\source\\repos\\todoapp\\servicelayer\\todoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672C488B-172F-4D5E-A5F8-4FD42D9D7A17}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\todoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672C488B-172F-4D5E-A5F8-4FD42D9D7A17}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\shere\\source\\repos\\todoapp\\servicelayer\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672C488B-172F-4D5E-A5F8-4FD42D9D7A17}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62383FA1-5E0B-47AE-AF59-7035F19322BD}|ServiceAbstraction\\ServiceAbstraction.csproj|c:\\users\\shere\\source\\repos\\todoapp\\serviceabstraction\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62383FA1-5E0B-47AE-AF59-7035F19322BD}|ServiceAbstraction\\ServiceAbstraction.csproj|solutionrelative:serviceabstraction\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4240F247-A98E-4A75-9B42-827A8E93191F}|ToDoApp\\ToDoApp.csproj|c:\\users\\shere\\source\\repos\\todoapp\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4240F247-A98E-4A75-9B42-827A8E93191F}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E495DC-CEDE-4F03-99D3-07851B9B241B}|Shared\\Shared.csproj|c:\\users\\shere\\source\\repos\\todoapp\\shared\\createdtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E495DC-CEDE-4F03-99D3-07851B9B241B}|Shared\\Shared.csproj|solutionrelative:shared\\createdtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E495DC-CEDE-4F03-99D3-07851B9B241B}|Shared\\Shared.csproj|c:\\users\\shere\\source\\repos\\todoapp\\shared\\updatedtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E495DC-CEDE-4F03-99D3-07851B9B241B}|Shared\\Shared.csproj|solutionrelative:shared\\updatedtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E495DC-CEDE-4F03-99D3-07851B9B241B}|Shared\\Shared.csproj|c:\\users\\shere\\source\\repos\\todoapp\\shared\\tododetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E495DC-CEDE-4F03-99D3-07851B9B241B}|Shared\\Shared.csproj|solutionrelative:shared\\tododetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111CAAB7-A02F-4E98-BF72-CAA5433E54B0}|DomainLayer\\DomainLayer.csproj|c:\\users\\shere\\source\\repos\\todoapp\\domainlayer\\entites\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111CAAB7-A02F-4E98-BF72-CAA5433E54B0}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entites\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111CAAB7-A02F-4E98-BF72-CAA5433E54B0}|DomainLayer\\DomainLayer.csproj|c:\\users\\shere\\source\\repos\\todoapp\\domainlayer\\entites\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111CAAB7-A02F-4E98-BF72-CAA5433E54B0}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entites\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111CAAB7-A02F-4E98-BF72-CAA5433E54B0}|DomainLayer\\DomainLayer.csproj|c:\\users\\shere\\source\\repos\\todoapp\\domainlayer\\itodorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111CAAB7-A02F-4E98-BF72-CAA5433E54B0}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\itodorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA840CCA-9933-40F5-80CD-AE0C0E8C0A34}|Persistance\\Persistance.csproj|c:\\users\\shere\\source\\repos\\todoapp\\persistance\\todorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA840CCA-9933-40F5-80CD-AE0C0E8C0A34}|Persistance\\Persistance.csproj|solutionrelative:persistance\\todorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111CAAB7-A02F-4E98-BF72-CAA5433E54B0}|DomainLayer\\DomainLayer.csproj|c:\\users\\shere\\source\\repos\\todoapp\\domainlayer\\entites\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111CAAB7-A02F-4E98-BF72-CAA5433E54B0}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entites\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E495DC-CEDE-4F03-99D3-07851B9B241B}|Shared\\Shared.csproj|c:\\users\\shere\\source\\repos\\todoapp\\shared\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E495DC-CEDE-4F03-99D3-07851B9B241B}|Shared\\Shared.csproj|solutionrelative:shared\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672C488B-172F-4D5E-A5F8-4FD42D9D7A17}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\shere\\source\\repos\\todoapp\\servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{672C488B-172F-4D5E-A5F8-4FD42D9D7A17}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62383FA1-5E0B-47AE-AF59-7035F19322BD}|ServiceAbstraction\\ServiceAbstraction.csproj|c:\\users\\shere\\source\\repos\\todoapp\\serviceabstraction\\serviceabstraction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62383FA1-5E0B-47AE-AF59-7035F19322BD}|ServiceAbstraction\\ServiceAbstraction.csproj|solutionrelative:serviceabstraction\\serviceabstraction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA840CCA-9933-40F5-80CD-AE0C0E8C0A34}|Persistance\\Persistance.csproj|c:\\users\\shere\\source\\repos\\todoapp\\persistance\\persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA840CCA-9933-40F5-80CD-AE0C0E8C0A34}|Persistance\\Persistance.csproj|solutionrelative:persistance\\persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870525D0-A0D2-4086-BD28-A6310781AC8F}|PersentaisonLayer\\PersentaisonLayer.csproj|c:\\users\\shere\\source\\repos\\todoapp\\persentaisonlayer\\persentaisonlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{870525D0-A0D2-4086-BD28-A6310781AC8F}|PersentaisonLayer\\PersentaisonLayer.csproj|solutionrelative:persentaisonlayer\\persentaisonlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111CAAB7-A02F-4E98-BF72-CAA5433E54B0}|DomainLayer\\DomainLayer.csproj|c:\\users\\shere\\source\\repos\\todoapp\\domainlayer\\domainlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{111CAAB7-A02F-4E98-BF72-CAA5433E54B0}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\domainlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA840CCA-9933-40F5-80CD-AE0C0E8C0A34}|Persistance\\Persistance.csproj|c:\\users\\shere\\source\\repos\\todoapp\\persistance\\data\\migrations\\20260413155423_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA840CCA-9933-40F5-80CD-AE0C0E8C0A34}|Persistance\\Persistance.csproj|solutionrelative:persistance\\data\\migrations\\20260413155423_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IToDoService.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\ToDoApp\\ServiceAbstraction\\IToDoService.cs",
+              "RelativeDocumentMoniker": "ServiceAbstraction\\IToDoService.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\ToDoApp\\ServiceAbstraction\\IToDoService.cs",
+              "RelativeToolTip": "ServiceAbstraction\\IToDoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:41:06.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\ToDoApp\\DomainLayer\\Entites\\Status.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entites\\Status.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\ToDoApp\\DomainLayer\\Entites\\Status.cs",
+              "RelativeToolTip": "DomainLayer\\Entites\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T13:19:40.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ToDoDto.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\ToDoApp\\Shared\\ToDoDto.cs",
+              "RelativeDocumentMoniker": "Shared\\ToDoDto.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\ToDoApp\\Shared\\ToDoDto.cs",
+              "RelativeToolTip": "Shared\\ToDoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T12:24:04.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\ToDoApp\\DomainLayer\\Entites\\Priority.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entites\\Priority.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\ToDoApp\\DomainLayer\\Entites\\Priority.cs",
+              "RelativeToolTip": "DomainLayer\\Entites\\Priority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T13:20:15.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreatedToDoDto.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\ToDoApp\\Shared\\CreatedToDoDto.cs",
+              "RelativeDocumentMoniker": "Shared\\CreatedToDoDto.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\ToDoApp\\Shared\\CreatedToDoDto.cs",
+              "RelativeToolTip": "Shared\\CreatedToDoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:56:13.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoService.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\ToDoApp\\ServiceLayer\\ToDoService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\ToDoService.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\ToDoApp\\ServiceLayer\\ToDoService.cs",
+              "RelativeToolTip": "ServiceLayer\\ToDoService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwBkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:51:47.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoProfile.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\ToDoApp\\ServiceLayer\\ToDoProfile.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\ToDoProfile.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\ToDoApp\\ServiceLayer\\ToDoProfile.cs",
+              "RelativeToolTip": "ServiceLayer\\ToDoProfile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T12:04:58.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\ToDoApp\\ToDoApp\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\ToDoApp\\ToDoApp\\Program.cs",
+              "RelativeToolTip": "ToDoApp\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:50:30.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\ToDoApp\\PersentaisonLayer\\ToDoController.cs",
+              "RelativeDocumentMoniker": "PersentaisonLayer\\ToDoController.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\ToDoApp\\PersentaisonLayer\\ToDoController.cs",
+              "RelativeToolTip": "PersentaisonLayer\\ToDoController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwCUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:49:12.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\ToDoApp\\ToDoApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ToDoApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\ToDoApp\\ToDoApp\\appsettings.Development.json",
+              "RelativeToolTip": "ToDoApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-13T15:52:54.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdatedToDoDto.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\ToDoApp\\Shared\\UpdatedToDoDto.cs",
+              "RelativeDocumentMoniker": "Shared\\UpdatedToDoDto.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\ToDoApp\\Shared\\UpdatedToDoDto.cs",
+              "RelativeToolTip": "Shared\\UpdatedToDoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T12:25:27.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ToDoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\ToDoApp\\Persistance\\ToDoRepo.cs",
+              "RelativeDocumentMoniker": "Persistance\\ToDoRepo.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\ToDoApp\\Persistance\\ToDoRepo.cs",
+              "RelativeToolTip": "Persistance\\ToDoRepo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:41:45.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ToDo.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\ToDoApp\\DomainLayer\\Entites\\ToDo.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entites\\ToDo.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\ToDoApp\\DomainLayer\\Entites\\ToDo.cs",
+              "RelativeToolTip": "DomainLayer\\Entites\\ToDo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T16:00:22.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToDoDetails.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\ToDoApp\\Shared\\ToDoDetails.cs",
+              "RelativeDocumentMoniker": "Shared\\ToDoDetails.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\ToDoApp\\Shared\\ToDoDetails.cs",
+              "RelativeToolTip": "Shared\\ToDoDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T13:43:24.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IToDoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\ToDoApp\\DomainLayer\\IToDoRepo.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\IToDoRepo.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\ToDoApp\\DomainLayer\\IToDoRepo.cs",
+              "RelativeToolTip": "DomainLayer\\IToDoRepo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAtwBAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:45:40.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Persistance.csproj",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\ToDoApp\\Persistance\\Persistance.csproj",
+              "RelativeDocumentMoniker": "Persistance\\Persistance.csproj",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\ToDoApp\\Persistance\\Persistance.csproj",
+              "RelativeToolTip": "Persistance\\Persistance.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T15:51:02.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\ToDoApp\\ServiceLayer\\ServiceLayer.csproj",
+              "RelativeDocumentMoniker": "ServiceLayer\\ServiceLayer.csproj",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\ToDoApp\\ServiceLayer\\ServiceLayer.csproj",
+              "RelativeToolTip": "ServiceLayer\\ServiceLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T15:51:33.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20260413155423_inital.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\ToDoApp\\Persistance\\Data\\Migrations\\20260413155423_inital.cs",
+              "RelativeDocumentMoniker": "Persistance\\Data\\Migrations\\20260413155423_inital.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\ToDoApp\\Persistance\\Data\\Migrations\\20260413155423_inital.cs",
+              "RelativeToolTip": "Persistance\\Data\\Migrations\\20260413155423_inital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:54:23.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PersentaisonLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\ToDoApp\\PersentaisonLayer\\PersentaisonLayer.csproj",
+              "RelativeDocumentMoniker": "PersentaisonLayer\\PersentaisonLayer.csproj",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\ToDoApp\\PersentaisonLayer\\PersentaisonLayer.csproj",
+              "RelativeToolTip": "PersentaisonLayer\\PersentaisonLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T15:49:46.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceAbstraction.csproj",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\ToDoApp\\ServiceAbstraction\\ServiceAbstraction.csproj",
+              "RelativeDocumentMoniker": "ServiceAbstraction\\ServiceAbstraction.csproj",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\ToDoApp\\ServiceAbstraction\\ServiceAbstraction.csproj",
+              "RelativeToolTip": "ServiceAbstraction\\ServiceAbstraction.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T15:43:03.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DomainLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\ToDoApp\\DomainLayer\\DomainLayer.csproj",
+              "RelativeDocumentMoniker": "DomainLayer\\DomainLayer.csproj",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\ToDoApp\\DomainLayer\\DomainLayer.csproj",
+              "RelativeToolTip": "DomainLayer\\DomainLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T15:42:50.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
