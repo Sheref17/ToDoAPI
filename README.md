@@ -72,8 +72,3 @@ The project follows a layered structure:
 
 
 
-## ⭐ Contribute
-
-Feel free to fork the repo and submit pull requests!
-http://todotask.runasp.net/swagger/index.html
----
